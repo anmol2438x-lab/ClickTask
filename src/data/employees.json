@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "email": "employee1@example.com",
+    "password": "123",
+    "name": "Amit Sharma",
+    "tasks": [
+      {
+        "id": 1,
+        "task_title": "Complete the new development module for project XYZ",
+        "task_description": "The task involves building the new module to improve system efficiency and overall user experience.",
+        "task_date": "2025-03-21",
+        "created_at": "2025-03-14",
+        "category": "Development",
+        "status": "active",
+        "employee_name": "Amit Sharma"
+      },
+      {
+        "id": 2,
+        "task_title": "Conduct detailed testing for project update version",
+        "task_description": "Test the updated version for bugs and ensure stability across multiple devices and platforms.",
+        "task_date": "2025-03-22",
+        "created_at": "2025-03-15",
+        "category": "Testing",
+        "status": "completed",
+        "employee_name": "Amit Sharma"
+      },
+      {
+        "id": 3,
+        "task_title": "Update documentation for recent feature releases",
+        "task_description": "Create updated documentation to guide users about newly released features and provide insights.",
+        "task_date": "2025-03-23",
+        "created_at": "2025-03-16",
+        "category": "Documentation",
+        "status": "failed",
+        "employee_name": "Amit Sharma"
+      },
+      {
+        "id": 4,
+        "task_title": "Fix bugs in the development module for project XYZ",
+        "task_description": "Address the issues identified during testing and ensure the module functions correctly.",
+        "task_date": "2025-03-24",
+        "created_at": "2025-03-18",
+        "category": "Development",
+        "status": "active",
+        "employee_name": "Amit Sharma"
+      },
+      {
+        "id": 5,
+        "task_title": "Prepare demo for client presentation",
+        "task_description": "Create a demo to showcase the progress made on the development module to the client.",
+        "task_date": "2025-03-25",
+        "created_at": "2025-03-19",
+        "category": "Design",
+        "status": "new_task",
+        "employee_name": "Amit Sharma"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "email": "employee2@example.com",
+    "password": "123",
+    "name": "Priya Desai",
+    "tasks": [
+      {
+        "id": 1,
+        "task_title": "Design the initial UI/UX for new application feature",
+        "task_description": "Design wireframes and prototype for the new feature to improve the user interface experience.",
+        "task_date": "2025-03-21",
+        "created_at": "2025-03-14",
+        "category": "Design",
+        "status": "active",
+        "employee_name": "Priya Desai"
+      },
+      {
+        "id": 2,
+        "task_title": "Review and provide feedback on new project updates",
+        "task_description": "Review the newly released project updates and provide detailed feedback on improvements and bugs.",
+        "task_date": "2025-03-22",
+        "created_at": "2025-03-15",
+        "category": "Review",
+        "status": "active",
+        "employee_name": "Priya Desai"
+      },
+      {
+        "id": 3,
+        "task_title": "Perform final testing before project release",
+        "task_description": "Test the final version to ensure all features work correctly and no bugs remain before release.",
+        "task_date": "2025-03-23",
+        "created_at": "2025-03-16",
+        "category": "Development",
+        "status": "completed",
+        "employee_name": "Priya Desai"
+      },
+      {
+        "id": 4,
+        "task_title": "Create wireframe for new app version",
+        "task_description": "Design the wireframe for the upcoming version of the app to guide development.",
+        "task_date": "2025-03-24",
+        "created_at": "2025-03-17",
+        "category": "Design",
+        "status": "new_task",
+        "employee_name": "Priya Desai"
+      },
+      {
+        "id": 5,
+        "task_title": "Conduct user testing for new UI/UX",
+        "task_description": "Test the new UI/UX with a small group of users to gather feedback.",
+        "task_date": "2025-03-25",
+        "created_at": "2025-03-18",
+        "category": "Testing",
+        "status": "active",
+        "employee_name": "Priya Desai"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "email": "employee3@example.com",
+    "password": "123",
+    "name": "Rajesh Kumar",
+    "tasks": [
+      {
+        "id": 1,
+        "task_title": "Test the functionality of new integration features",
+        "task_description": "Test the newly integrated features for any compatibility issues across devices and platforms.",
+        "task_date": "2025-03-21",
+        "created_at": "2025-03-14",
+        "category": "Testing",
+        "status": "active",
+        "employee_name": "Rajesh Kumar"
+      },
+      {
+        "id": 2,
+        "task_title": "Document the latest bug fixes and feature upgrades",
+        "task_description": "Update the documentation with the latest bug fixes and new feature releases for user reference.",
+        "task_date": "2025-03-22",
+        "created_at": "2025-03-15",
+        "category": "Documentation",
+        "status": "completed",
+        "employee_name": "Rajesh Kumar"
+      },
+      {
+        "id": 3,
+        "task_title": "Review and refactor old codebase",
+        "task_description": "Go through the old codebase to improve readability and performance.",
+        "task_date": "2025-03-23",
+        "created_at": "2025-03-16",
+        "category": "Development",
+        "status": "new_task",
+        "employee_name": "Rajesh Kumar"
+      },
+      {
+        "id": 4,
+        "task_title": "Optimize database queries for performance",
+        "task_description": "Optimize slow-performing database queries to improve app speed.",
+        "task_date": "2025-03-24",
+        "created_at": "2025-03-17",
+        "category": "Development",
+        "status": "active",
+        "employee_name": "Rajesh Kumar"
+      },
+      {
+        "id": 5,
+        "task_title": "Prepare code review for integration features",
+        "task_description": "Create a detailed code review for the newly integrated features before final release.",
+        "task_date": "2025-03-25",
+        "created_at": "2025-03-18",
+        "category": "Review",
+        "status": "new_task",
+        "employee_name": "Rajesh Kumar"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "email": "employee4@example.com",
+    "password": "123",
+    "name": "Ritika Gupta",
+    "tasks": [
+      {
+        "id": 1,
+        "task_title": "Develop core module for new app feature",
+        "task_description": "Build the core module to implement the new feature and ensure smooth app performance.",
+        "task_date": "2025-03-21",
+        "created_at": "2025-03-14",
+        "category": "Development",
+        "status": "active",
+        "employee_name": "Ritika Gupta"
+      },
+      {
+        "id": 2,
+        "task_title": "Conduct usability testing on updated app interface",
+        "task_description": "Test the updated interface to ensure ease of use and identify potential areas of improvement.",
+        "task_date": "2025-03-22",
+        "created_at": "2025-03-15",
+        "category": "Testing",
+        "status": "active",
+        "employee_name": "Ritika Gupta"
+      },
+      {
+        "id": 3,
+        "task_title": "Create final project review and release report",
+        "task_description": "Prepare and submit a detailed review of the project, including its status and any potential risks.",
+        "task_date": "2025-03-23",
+        "created_at": "2025-03-16",
+        "category": "Design",
+        "status": "completed",
+        "employee_name": "Ritika Gupta"
+      },
+      {
+        "id": 4,
+        "task_title": "Provide feedback on new features from the design team",
+        "task_description": "Review the newly designed features and provide feedback to the team for further improvements.",
+        "task_date": "2025-03-24",
+        "created_at": "2025-03-17",
+        "category": "Review",
+        "status": "failed",
+        "employee_name": "Ritika Gupta"
+      },
+      {
+        "id": 5,
+        "task_title": "Create wireframe for upcoming app update",
+        "task_description": "Design a wireframe for the upcoming app update based on feedback from users and stakeholders.",
+        "task_date": "2025-03-25",
+        "created_at": "2025-03-18",
+        "category": "Design",
+        "status": "new_task",
+        "employee_name": "Ritika Gupta"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "email": "employee5@example.com",
+    "password": "123",
+    "name": "Neha Singh",
+    "tasks": [
+      {
+        "id": 1,
+        "task_title": "Test the new feature added to the app",
+        "task_description": "Test the recently added feature to identify any bugs or usability issues before launch.",
+        "task_date": "2025-03-21",
+        "created_at": "2025-03-14",
+        "category": "Testing",
+        "status": "active",
+        "employee_name": "Neha Singh"
+      },
+      {
+        "id": 2,
+        "task_title": "Develop core feature for product upgrade",
+        "task_description": "Implement the core feature for the new product upgrade, ensuring it aligns with the product vision.",
+        "task_date": "2025-03-22",
+        "created_at": "2025-03-15",
+        "category": "Development",
+        "status": "completed",
+        "employee_name": "Neha Singh"
+      },
+      {
+        "id": 3,
+        "task_title": "Design new user interface for upcoming release",
+        "task_description": "Design an intuitive and user-friendly interface to enhance the user experience for the upcoming release.",
+        "task_date": "2025-03-23",
+        "created_at": "2025-03-16",
+        "category": "Design",
+        "status": "failed",
+        "employee_name": "Neha Singh"
+      },
+      {
+        "id": 4,
+        "task_title": "Review user feedback for the recently released feature",
+        "task_description": "Analyze user feedback and identify improvement areas for the newly released feature.",
+        "task_date": "2025-03-24",
+        "created_at": "2025-03-17",
+        "category": "Review",
+        "status": "active",
+        "employee_name": "Neha Singh"
+      },
+      {
+        "id": 5,
+        "task_title": "Prepare release notes for upcoming product launch",
+        "task_description": "Prepare and document the release notes for the new product launch, ensuring clarity and completeness.",
+        "task_date": "2025-03-25",
+        "created_at": "2025-03-18",
+        "category": "Documentation",
+        "status": "completed",
+        "employee_name": "Neha Singh"
+      },
+      {
+        "id": 6,
+        "task_title": "Complete integration of new app feature with backend",
+        "task_description": "Ensure the new feature is integrated successfully with the backend, and all data flows seamlessly.",
+        "task_date": "2025-03-26",
+        "created_at": "2025-03-19",
+        "category": "Development",
+        "status": "active",
+        "employee_name": "Neha Singh"
+      }
+    ]
+  }
+]
