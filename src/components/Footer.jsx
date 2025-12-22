@@ -15,7 +15,7 @@ function Footer() {
       <div className="container mx-auto px-4 text-center text-sm">
         <p className={theme === 'dark' ? 'text-gray-400' : 'text-gray-500'}>
           © {new Date().getFullYear()} All rights reserved. Developed by{" "}
-          <a href="https://www.linkedin.com/in/sachinpro/" target="blank">
+          <a href="https://www.linkedin.com/in/anmolkrsingh/" target="blank">
             <span
               className={
                 theme === "dark"
@@ -23,7 +23,7 @@ function Footer() {
                   : "text-blue-600 font-medium"
               }
             >
-              Sachin
+              Anmol
             </span>
           </a>
         </p>
