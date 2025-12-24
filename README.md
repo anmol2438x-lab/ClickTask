@@ -1,6 +1,6 @@
 # Click Task – Employee Task Management System
 
-![App Preview](/ems.webp)
+![App Preview](https://github.com/anmol2438x-lab/ClickTask/blob/main/public/App%20Preview.webp)
 
 ## 🌟 Live Demo
 
