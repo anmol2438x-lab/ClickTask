@@ -35,7 +35,7 @@ function Header({ textClass }) {
               {loggedInUser.role === "admin" ? (
                 <img
                   className="w-12"
-                  src="/admin.jpg"
+                  src="public\admin.png"
                   alt="Admin profile image"
                 />
               ) : (
@@ -64,7 +64,7 @@ function Header({ textClass }) {
           <div className="flex items-center space-x-4">
             <ThemeToggle />
 
-              {/* logout button  */}
+            {/* logout button  */}
             <button
               onClick={handleLogOut}
               className={`
