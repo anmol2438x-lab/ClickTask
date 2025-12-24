@@ -1,6 +1,6 @@
 # Click Task – Employee Task Management System
 
-![App Preview](App Preview.png)
+![App Preview](/ems.webp)
 
 ## 🌟 Live Demo
 
