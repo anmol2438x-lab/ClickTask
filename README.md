@@ -1,10 +1,10 @@
 # Click Task – Employee Task Management System
 
-![App Preview](https://media.licdn.com/dms/image/v2/D562DAQFBMtNdKCek3w/profile-treasury-image-shrink_800_800/B56ZfT7UfiHoAg-/0/1751607233827?e=1752840000&v=beta&t=AqM1EDdAx5y22HIZqeGOwv8_O6ZwIMoSPjtyzbz6-bE)
+![App Preview](App Preview.png)
 
 ## 🌟 Live Demo
 
-[![Demo Button](https://img.shields.io/badge/🚀_Live_Demo-Click_Here-3d5a80?style=for-the-badge)](https://click-task.netlify.app/)
+[![Demo Button](https://img.shields.io/badge/🚀_Live_Demo-Click_Here-3d5a80?style=for-the-badge)](https://clicktask.netlify.app/)
 
 ## 📌 Table of Contents
 
